@@ -155,3 +155,6 @@ The culmination of the project: a robust, object-oriented pipeline capable of pr
 - Self-Driving Research
 - Robotics Navigation
 - Smart Transportation Systems
+
+
+**Note:** The final processed video output can be found in the `files/` folder.
